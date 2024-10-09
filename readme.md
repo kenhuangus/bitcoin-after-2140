@@ -44,7 +44,7 @@ network.addBlock(2, transactions2);
 network.displayMinerStatus();
 ```
 
-## Future Improvements
+## Other Improvements
 
 1. **Dynamic Fee Structure**: Implement a dynamic fee mechanism to adjust transaction fees based on network conditions, ensuring miners are sufficiently rewarded even during low activity periods.
 2. **Proof of Stake Hybrid**: Explore integrating Proof of Stake elements to enhance the security and decentralization of the network while maintaining incentives.
