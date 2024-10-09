@@ -55,7 +55,7 @@ network.displayMinerStatus();
 To compile and run the code, you will need a C++ compiler. Use the following commands to compile and run:
 
 ```sh
-g++ -o mining_network mining_network.cpp
+g++ -o mining_network bitcoin-after-2140.cpp
 ./mining_network
 ```
 
